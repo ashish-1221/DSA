@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "b2b4a9c046f3a729",
+    "type": "split",
+    "children": [
+      {
+        "id": "67c20078b6639da5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66f96a132a075d21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factorial of A numer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "037e264d62195682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trailing Zeros of a Factorial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06698ff84559e5b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0f6b49b55a244e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "978913b88e3018da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b76bf32a47e149f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef0823d23f7ff052",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b0f27031aeff528a",
+    "type": "split",
+    "children": [
+      {
+        "id": "47998bfcf75b707b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25d95669b1e16dfd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Trailing Zeros of a Factorial.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "055b62a6ba4af844",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Trailing Zeros of a Factorial.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eedec3a816705bcd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ebf1f41253340f77",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Trailing Zeros of a Factorial.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "037e264d62195682",
+  "lastOpenFiles": [
+    "Factorial of A numer.md",
+    "Trailing Zeros of a Factorial.md"
+  ]
+}
